@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rizwanclass/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rizwanclass/static/js/main.f94f2408.chunk.js",
+    "main.js.map": "/rizwanclass/static/js/main.f94f2408.chunk.js.map",
+    "runtime-main.js": "/rizwanclass/static/js/runtime-main.cd6db127.js",
+    "runtime-main.js.map": "/rizwanclass/static/js/runtime-main.cd6db127.js.map",
+    "static/js/2.8c230bfb.chunk.js": "/rizwanclass/static/js/2.8c230bfb.chunk.js",
+    "static/js/2.8c230bfb.chunk.js.map": "/rizwanclass/static/js/2.8c230bfb.chunk.js.map",
+    "index.html": "/rizwanclass/index.html",
+    "precache-manifest.873cdc55a16fdd9553139299de8897d5.js": "/rizwanclass/precache-manifest.873cdc55a16fdd9553139299de8897d5.js",
+    "service-worker.js": "/rizwanclass/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rizwanclass/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8c230bfb.chunk.js.LICENSE.txt": "/rizwanclass/static/js/2.8c230bfb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rizwanclass/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd6db127.js",
+    "static/js/2.8c230bfb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f94f2408.chunk.js"
+  ]
+}
